@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.857e535b.js",
-    "static/js/787.9751678a.chunk.js": "/static/js/787.9751678a.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.857e535b.js.map": "/static/js/main.857e535b.js.map",
-    "787.9751678a.chunk.js.map": "/static/js/787.9751678a.chunk.js.map"
+    "main.css": "/ocean-ins-v2/static/css/main.073c9b0a.css",
+    "main.js": "/ocean-ins-v2/static/js/main.744225fb.js",
+    "static/js/787.6a5cdb0f.chunk.js": "/ocean-ins-v2/static/js/787.6a5cdb0f.chunk.js",
+    "static/media/logo.svg": "/ocean-ins-v2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ocean-ins-v2/index.html",
+    "main.073c9b0a.css.map": "/ocean-ins-v2/static/css/main.073c9b0a.css.map",
+    "main.744225fb.js.map": "/ocean-ins-v2/static/js/main.744225fb.js.map",
+    "787.6a5cdb0f.chunk.js.map": "/ocean-ins-v2/static/js/787.6a5cdb0f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.857e535b.js"
+    "static/js/main.744225fb.js"
   ]
 }
